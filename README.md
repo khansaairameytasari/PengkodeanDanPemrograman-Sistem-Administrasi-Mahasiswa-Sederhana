@@ -15,7 +15,7 @@ CARA MEMBUKA APLIKASI
 REFERENSI
 https://github.com/farhanadeata/WebCRUD
 
-Username = Admin;
+Username = Admin
 Password = 1234
 
 TAMPILAN SEBELUM MODIFIKASI
